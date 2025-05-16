@@ -1,5 +1,10 @@
 # Projektrealisierung
-
+## Projektmitglieder
+  - Rouah Abdul Jawad
+  - Luis Litters
+  - Tim Stelzner
+  - Alexander Rohr
+  - Mehmet Marijanovic
 ## Projektbeschreibung
 Aufgabe: Erstellen einer Data Story zum Thema „Wo liegen Chancen für die EU im Bereich
 Data Science?“
