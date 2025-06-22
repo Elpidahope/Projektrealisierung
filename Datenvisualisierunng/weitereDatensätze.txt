@@ -1,0 +1,9 @@
+Weitere Datensätze für Visualisierungen:
+
+Datensatz für das Medianalter je Land und Jahr:
+- https://data.europa.eu/data/datasets/movkta12ccyzsj8c8fbw?locale=en
+
+Datensatz
+- https://data.europa.eu/data/datasets/qlggc7zyhdaqijmqhlkg?locale=en
+
+Sind dabei diese Datensätze für weitere Visualisierungen zu nutzen.
